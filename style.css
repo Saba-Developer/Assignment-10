@@ -1,0 +1,42 @@
+.full{
+    background-color: #9ACBD0;
+    padding: 20px;
+    margin: 0;
+    max-width: 800px;
+}
+
+.header{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #102E50;
+    padding: 30px;
+    font-weight: 700px;
+}
+
+h3{
+    color: #fff;
+    text-align: center;
+    background-color:#102E50;
+    font-family: 'Times New Roman', Times, serif;
+}
+.summary{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-weight: 300px;
+}
+
+.skill{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-weight: 300px;
+}
+
+.experience{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 300px;
+}
+
+.education{
+font-weight: 300px;
+}
